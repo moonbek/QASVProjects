@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+
+# Reports
+AllureReports/
+HtmlReports/
+allure-results/
+allure-report/
+
+# macOS
+.DS_Store
