@@ -1,16 +1,20 @@
-# Python
+# PyCharm / JetBrains
+.idea/
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-# PyCharm
-.idea/
-
-# Reports
+# Allure reports (generated)
 AllureReports/
-HtmlReports/
 allure-results/
 allure-report/
+
+# HTML reports (generated)
+HtmlReports/
+*.html
+*.htm
 
 # macOS
 .DS_Store
